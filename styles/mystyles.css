@@ -1,0 +1,84 @@
+.nav {text-align: right;
+    font-style:normal;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    padding-left: 12px;
+    padding-right: 40px;
+    padding-top: 20px;
+    color:blue;
+    }
+
+.mainthing {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    color:black;
+
+}
+
+.body{
+    background-color:white;
+    font-family: Verdana, Tahoma, sans-serif;
+
+
+}
+
+.awesome {
+    background-color:paleturquoise;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    color:black;
+    text-align:center;
+}
+.sweet{
+    text-align: center;
+    font-size: 15px;
+}
+
+.amazing{
+    text-align: right;
+    font-size:15px;
+}
+
+.subheader {
+    background-color:paleturquoise;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    color:black;
+    font-style:oblique;
+
+}
+
+.normal{
+    font-style:normal;text-align: center;
+    color:black
+}
+
+.footer {
+    font-size: 20 px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: dimgrey;
+}
+
+.bold {text-align: left; font-size: 15px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+.hate {font-style: normal; text-align: center; color:lightskyblue;
+
+}
+
+.Sad {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times,serif;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: dimgrey;
+
+}
